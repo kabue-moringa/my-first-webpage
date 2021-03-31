@@ -1,0 +1,17 @@
+h1{
+    color: #00f;
+    text-align: center;
+    background-color: greenyellow;
+}
+h2{
+    color: green;
+    text-align: center;
+    font-style: italic;
+    background-color: hotpink;
+}
+p{
+    font-family: sans-serif;
+}
+ol{
+    line-height: 40px;
+}
